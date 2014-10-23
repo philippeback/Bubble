@@ -1,6 +1,8 @@
 Bubble
 ======
 
+![Bubble](Bubble.png)
+
 A microframework for Pharo.
 
 A bubble is an application.
