@@ -1,0 +1,14 @@
+{
+	"category" : "Bubble",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PhilippeBack 10/23/2014 10:01",
+	"instvars" : [
+		 ],
+	"name" : "BubbleCommandLine",
+	"pools" : [
+		 ],
+	"super" : "CommandLineHandler",
+	"type" : "normal" }

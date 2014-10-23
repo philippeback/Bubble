@@ -1,0 +1,1 @@
+Usage: bubble --app  *.bubble | --version

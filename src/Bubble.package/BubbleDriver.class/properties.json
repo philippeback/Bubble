@@ -1,0 +1,14 @@
+{
+	"category" : "Bubble",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BubbleDriver",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./pharo/pharo-ui ./pharo/Bubble.image
+
